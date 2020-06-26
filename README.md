@@ -1,6 +1,7 @@
 # ---http-wenshu.court.gov.cn-
 中国裁判文书网
-硒
+
+selenium
 
 
 getDocid.py获取每篇文书的docid 
