@@ -44,5 +44,5 @@ def getEncryptKey(password):
 
 
 if __name__ == '__main__':
-    encrypt_key = getEncryptKey("Cp911922@")
-    login("15776690679", encrypt_key)
+    encrypt_key = getEncryptKey("xxxx") # 输入密码
+    login("xxxx", encrypt_key) # 输入账号
