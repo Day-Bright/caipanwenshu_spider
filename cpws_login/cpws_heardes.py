@@ -29,17 +29,9 @@ main_heardes = {
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en,zh-CN;q=0.9,zh;q=0.8",
     "Connection": "keep-alive",
-    # Cookie: HM4hUBT0dDOn443S=1iHNAnmYLY4vUwMiKvf1Hno7G__y8YSqeDZXpFC5qZhcwkmOdrn3_opGkv0wOUDj; HM4hUBT0dDOn443T=4SITOd19RWYNhXr0ubCM6BrzglS2D7oCxKxNbxOvld2UIwQaAMR5VyMv_Ynezdd635rJr6q4hfBFH8vo2.sv9E8uAUwUBLzCFk0RoiliiVB1h9xUgrq5bnpxPNczlwgvPoMqOaXfWDZ9Gs8KXY6v9qi1PpbEgq2UraQMM9T3lAD3BJ1Us5k4F9na16Q6AQzkzxfvMXErlXjAc7fARS2PEBPEOylH6dwyNlyjqbAxhP0BwSWfg_pR1jXV2.DOhkhLQ5JfAV2VQ9KxBMuHSbtIB1lcmrTIWucGgbS_fREOJDWdGKfuuLSWMMhctGGxvcCGRMqjETJ9HHHG3KJmHmZxUzj_7xEKXfzH_rNhl3vn98nD2_nbEU84vN33qoQG7Uj2qGuq; UM_distinctid=17c3c6e13a369b-012c3811ca71f9-b7a1a38-144000-17c3c6e13a4db2; SESSION=8857f964-8614-4cd5-b4de-bc77f37e29b8; wzws_reurl=L3dlYnNpdGUvY29tbW9uL3BsdWdpbnMvbGF5dWkvbGF5L21vZHVsZXMvbGF5ZXIuanM=
     "Host": "wenshu.court.gov.cn",
     "Pragma": "no-cache",
     "Referer": "https://wenshu.court.gov.cn/CallBackController/authorizeCallBack?code=LdiO5n&state=882ac0b7-1594-4e40-8ee5-e7eea1af4a14",
-    # sec-ch-ua: "Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"
-    # sec-ch-ua-mobile: ?0
-    # sec-ch-ua-platform: "Windows"
-    # Sec-Fetch-Dest: document
-    # Sec-Fetch-Mode: navigate
-    # Sec-Fetch-Site: same-origin
-    # Sec-Fetch-User: ?1
     "Upgrade-Insecure-Requests": "1",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36"
 }
