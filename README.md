@@ -1,10 +1,4 @@
-# ---http-wenshu.court.gov.cn-
-中国裁判文书网
-
 感谢[李唐](https://github.com/itangk)提供的部分代码
-
-selenium
-
 
 getDocid.py获取每篇文书的docid 
 
