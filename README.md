@@ -1,6 +1,5 @@
 # caipanwenshu_spider
 
-
 ### 爬取流程
 
 * 爬取文书每篇文书的docid
@@ -27,8 +26,17 @@
 
 ### 更新
 
-* 2021/10/6新增[裁判文书网登录](https://github.com/Day-Bright/caipanwenshu_spider/blob/master/cpws_login/cpws_login.py)，JS逆向登录加密
-* 2022/4/11新增[裁判文书网登录](https://github.com/Day-Bright/caipanwenshu_spider/blob/master/cpws_login/LoginByUC.py)，使用undetected_chromedriver绕过文书网对selenium的反爬措施
+* 文书网登录
+
+  * 2021/10/6新增[裁判文书网登录](https://github.com/Day-Bright/caipanwenshu_spider/blob/master/cpws_login/cpws_login.py)，JS逆向登录加密
+
+  * 2022/4/11新增[裁判文书网登录](https://github.com/Day-Bright/caipanwenshu_spider/blob/master/cpws_login/LoginByUC.py)，使用undetected_chromedriver绕过文书网对selenium的反爬措施
+
+
+
+
+
+
 
 
 
